@@ -15,5 +15,9 @@
             "webPort": "6080",
             "vncPort": "5901"
         }
-    }
+    },
+    "hostRequirements": {
+            "cpus": 4,
+            "memory": "16gb"
+        }
 }
